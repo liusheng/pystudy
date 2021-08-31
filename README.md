@@ -13,6 +13,7 @@
 - [字典树: 单词替换](leetcode/leetcode-648-replace-words.py) -- [leetcode-648](https://leetcode-cn.com/problems/replace-words)
 - [前缀和: 连续的子数组和](leetcode/leetcode-523-continuous-subarray-sum.py) -- [leetcode-523](https://leetcode-cn.com/problems/continuous-subarray-sum)
 - [前缀和: 和可被K整除的子数组](leetcode/leetcode-974-subarray-sums-divisible-by-k.py) -- [leetcode-974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k)
+- [差分数组: 航班预订统计](leetcode/leetcode-1109-corporate-flight-bookings.py) -- [leetcode-1109](https://leetcode-cn.com/problems/corporate-flight-bookings)
 
 ## 常见算法框架：
 
@@ -22,4 +23,5 @@
 - [滑动窗口](frame/sliding_window.py)
 
 ## 其他笔记
+- [一些Python小技巧总结](notes/notes.md)
 - [单例模式简单实现](others/singleton.py)
