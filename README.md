@@ -25,3 +25,4 @@
 ## 其他笔记
 - [一些Python小技巧总结](notes/notes.md)
 - [单例模式简单实现](others/singleton.py)
+- [一种非常Pythonic的DP(动态规划)实现](others/dp.py)
